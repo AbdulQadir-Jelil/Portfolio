@@ -117,7 +117,7 @@ export default function AboutPage() {
               className="flex items-center gap-2 font-display text-[1.3rem] font-bold tracking-[-0.02em] text-ink"
             >
               <MapPin size={18} className="text-accent" />
-              Working from {location}
+              Based in {location}
             </h2>
             <p className="body-copy mt-2 text-[0.98rem]">
               Available remotely, and happy to talk through a project or a role
