@@ -15,7 +15,7 @@ export const role = "Frontend Developer";
 /** Short status line shown on the home page and the contact page. */
 export const availability = "Open to frontend roles and freelance work";
 
-export const location = "Ibadan, Oyo State, Nigeria";
+export const location = "Nigeria";
 
 export const nav = [
   { href: "/about", label: "About" },

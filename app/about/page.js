@@ -15,10 +15,19 @@ const facts = [
   { label: "Role", value: "Frontend developer" },
   { label: "Based in", value: location },
   { label: "Focus", value: "Web interfaces and cross-platform mobile apps" },
-  { label: "Stack", value: "React, Next.js, TypeScript, Tailwind CSS, React Native" },
-  { label: "Education", value: "B.Sc. Information Systems, Osun State University (Year 4)" },
+  {
+    label: "Stack",
+    value: "React, Next.js, TypeScript, Tailwind CSS, React Native",
+  },
+  {
+    label: "Education",
+    value: "B.Sc. Information Systems, Osun State University (Year 4)",
+  },
   { label: "Training", value: "Gigs Tech Solutions and Consults" },
-  { label: "Currently", value: "Blue Africa (React Native) and Eduflex (Next.js)" },
+  {
+    label: "Currently",
+    value: "Blue Africa (React Native) and Eduflex (Next.js)",
+  },
 ];
 
 const principles = [
@@ -62,10 +71,10 @@ export default function AboutPage() {
           </p>
           <p className="body-copy">
             Most of what I know came from building things that had to work. I
-            have contributed to a company portal that is now in active use, built
-            multi-role interfaces for a school management platform, and worked in
-            a team on a React Native app. Training and real project work taught
-            me more than tutorials did.
+            have contributed to a company portal that is now in active use,
+            built multi-role interfaces for a school management platform, and
+            worked in a team on a React Native app. Training and real project
+            work taught me more than tutorials did.
           </p>
           <p className="body-copy">
             I&rsquo;m also a Year 4 Information Systems student at Osun State
